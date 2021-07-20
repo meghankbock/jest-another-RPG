@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/meghankbock/jest-another-RPG#readme",
   "dependencies": {
-    "inquirer": "^8.1.1"
+    "inquirer": "^8.1.2"
   },
   "devDependencies": {
     "jest": "^27.0.6"
